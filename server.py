@@ -13,6 +13,7 @@ if os.environ.get('email') is None:
     load_dotenv('.env')
 
 app = Flask(__name__)
+app.secret_key = os.environ['app.secret_key']
 Bootstrap(app)
 
 
