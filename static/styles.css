@@ -1,0 +1,188 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.title-text {
+    margin: 0 25% 0 32%;
+}
+
+.resume {
+    color: #e14eca;
+}
+
+h1 {
+  margin: 35px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #fff;
+  line-height: 1.5;
+}
+
+#skills {
+    padding: 5% 15%;
+    margin: 0;
+    background-color: #32325d;
+    text-align: center;
+}
+
+#skills h1, #contact h1 {
+    margin: 0;
+}
+
+#about {
+    padding: 3% 15%;
+}
+
+#about h1, #projects h1 {
+    color: #e14eca;
+    margin: 20px 0 0;
+    line-height: 4rem;
+}
+
+.fa-heart {
+    font-size: 1.6rem;
+    margin-top: 10px;
+    color: #e14eca;
+}
+
+img {
+    height: 12rem;
+    margin: 5px 20px 20px;
+}
+
+#projects {
+    padding: 2% 15% 0;
+}
+
+#projects h1 {
+    margin: 70px auto 0;
+}
+
+.title, .summary {
+    margin: 0 40px 20px;
+}
+
+.carousel-inner{
+    height: 400px;
+}
+
+.summary {
+   font-size: 1rem;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #e14eca;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1rem;
+  color: #fff;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e14eca;
+}
+
+.navbar-brand {
+    color: #e14eca;
+    margin: 0 20px;
+    padding: 0;
+}
+
+p {
+  line-height: 2;
+  text-align: center;
+}
+
+#skills p {
+    color: #e14eca;
+}
+
+.top-container {
+  background-color: #32325d;
+  position: relative;
+  padding-top: 20px;
+}
+
+.resume {
+    background-color: #e14eca;
+    color: #fff;
+    margin: 20px;
+}
+
+a {
+  color: #e14eca;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 20px 150px;
+  text-decoration: none;
+}
+
+a:hover, .send:hover, .navbar-dark .navbar-nav .nav-link:hover, .resume:hover {
+  color: #f3a4b5;
+}
+
+.more {
+    margin: 0;
+}
+
+.navbar-dark .navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #daa7d1;
+    position: relative;
+    bottom: 68px;
+    left: 30px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #e14eca;
+}
+
+#contact {
+    background-color: #32325d;
+    padding: 5% 15%;
+}
+
+.btn-link {
+    box-shadow: none;
+    font-size: 1.2rem;
+    margin: 50px 10px 0;
+    color: #e14eca;
+    background: #32325d;
+}
+
+.form {
+    text-align: center;
+}
+
+label, #contact p {
+    color: #e14eca;
+}
+
+.send {
+    background-color: #e14eca;
+    color: #fff;
+}
+
+#footer {
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.sticky-top {
+    background-color:
+}
+
+#footer a {
+    margin: 20px 20px 0;
+}
